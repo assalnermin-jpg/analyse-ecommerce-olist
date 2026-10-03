@@ -4,8 +4,8 @@
 
 Analyse de bout en bout de près de **100 000 commandes réelles** d'une plateforme e-commerce brésilienne (Olist, 2016-2018) : de la base de données SQL jusqu'au dashboard Power BI et aux recommandations business.
 
-![Performance commerciale](dashboard/page1_performance.png)
-![Clients & satisfaction](dashboard/page2_clients.png)
+![Performance commerciale](capture_performance_commerciale.png)
+![Clients & satisfaction](capture_clients_qualit%C3%A9.png)
 
 ---
 
